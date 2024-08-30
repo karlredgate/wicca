@@ -1,0 +1,2 @@
+# wicca
+A simple CA
